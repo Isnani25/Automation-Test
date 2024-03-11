@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Phone number not found. Please use a vali_2e4fdf</name>
+   <tag></tag>
+   <elementGuidId>72b871f3-e246-45c6-99f0-cbb5ccee756d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.font-medium.text-gray-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9d1f472b-cbc4-4faf-8cd8-0e3ceab6caf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-gray-900</value>
+      <webElementGuid>47bc1bf8-13dd-4746-9c8a-46e360ee7759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone number not found. Please use a valid, registered number.</value>
+      <webElementGuid>2c64bde5-0b2d-4e22-a238-37f21a2bc892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;h-[100vh]&quot;]/div[@class=&quot;pointer-events-none fixed inset-x-0 top-0 z-50 flex items-end px-4 py-6 sm:items-start sm:p-6&quot;]/div[@class=&quot;flex w-full flex-col items-center space-y-4 sm:items-end&quot;]/div[@class=&quot;pointer-events-auto w-full max-w-sm overflow-hidden rounded-lg bg-white shadow-lg ring-1 ring-black/5 translate-y-0 opacity-100 sm:translate-x-0&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex items-start&quot;]/div[@class=&quot;ml-3 w-0 flex-1 pt-0.5&quot;]/p[@class=&quot;text-sm font-medium text-gray-900&quot;]</value>
+      <webElementGuid>be93b59c-31aa-4bed-a378-d733b2af3a6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div[2]/p</value>
+      <webElementGuid>9dbdb30f-a9d1-42e9-8bfc-ba7931cb339a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::p[2]</value>
+      <webElementGuid>e1105fe5-d6b0-4553-92d1-ba12d7e04822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASUK AKUN VOCAGAME'])[1]/preceding::p[2]</value>
+      <webElementGuid>31db0450-d8e2-4c56-8ae3-1e64b5adb255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Phone number not found. Please use a valid, registered number.']/parent::*</value>
+      <webElementGuid>e3547aa1-4b6b-49a1-be1c-252f6d377285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>e74567ae-484e-4c03-9c4d-3ffa45a3d551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Phone number not found. Please use a valid, registered number.' or . = 'Phone number not found. Please use a valid, registered number.')]</value>
+      <webElementGuid>6551a680-90ba-43e7-8fc3-56cfd8e1e135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

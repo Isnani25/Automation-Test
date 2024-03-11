@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Semua Game</name>
+   <tag></tag>
+   <elementGuidId>965a25c1-4803-4fcd-a008-bbe349eda1a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc52cef5-e3cd-4d57-a55c-a7a0fe852678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center whitespace-nowrap px-1 pt-1 text-sm font-normal text-gray-500 hover:text-gray-700</value>
+      <webElementGuid>76a0234a-384f-47d8-83d9-1cebd7b5f451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/all</value>
+      <webElementGuid>0672a0b0-e41f-4e52-be7d-58a2b5ad0423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Semua Game</value>
+      <webElementGuid>ad8c48c4-ca99-4434-829b-66f6ac078d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ease-out z-50 bg-white transition-all  duration-1000&quot;]/div[@class=&quot;shadow-navbar pt-[5.5rem] md:pt-32 lg:pt-[9.5rem] xl:pt-[9.25rem]&quot;]/div[@class=&quot;mx-auto max-w-7xl px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;hidden items-center justify-between pb-4 lg:flex&quot;]/div[@class=&quot;grid grid-flow-col gap-4&quot;]/a[@class=&quot;flex items-center whitespace-nowrap px-1 pt-1 text-sm font-normal text-gray-500 hover:text-gray-700&quot;]</value>
+      <webElementGuid>fa003265-0267-4bb0-94fc-11a217d9a24c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/a[2]</value>
+      <webElementGuid>9cb9c448-d152-446a-a669-8abc7f392882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/following::a[2]</value>
+      <webElementGuid>971de91a-0cbf-48af-bce5-9eb74d4a2389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua Game']/parent::*</value>
+      <webElementGuid>e067547d-3972-4065-b8a7-36b09102736f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/all')]</value>
+      <webElementGuid>58f423a3-856d-4607-bb8b-4d00a3a6d476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>8e7dfc03-415c-4f86-b91b-94fa1e392a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/all' and (text() = ' Semua Game' or . = ' Semua Game')]</value>
+      <webElementGuid>cfb45276-caf4-436f-8ca8-9c05d5c8c96f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

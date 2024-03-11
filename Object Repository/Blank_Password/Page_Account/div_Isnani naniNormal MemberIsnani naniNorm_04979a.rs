@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Isnani naniNormal MemberIsnani naniNorm_04979a</name>
+   <tag></tag>
+   <elementGuidId>d22dd8b1-e748-4e76-88f9-32e4da6aa4c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b84a6e3-3062-4b6d-97b7-dea0696e1f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-mt-12 flex space-x-5 sm:-mt-8 sm:items-center</value>
+      <webElementGuid>0ed72753-08b2-45ef-b978-2a000e1016a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isnani naniNormal MemberIsnani naniNormal MemberEdit Profile</value>
+      <webElementGuid>065b8450-e237-4952-a2a1-3234c311a64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;mx-auto mb-0 mt-8 max-w-7xl bg-white px-4 sm:px-6 lg:my-12 lg:px-8&quot;]/div[@class=&quot;mx-auto max-w-7xl&quot;]/div[@class=&quot;-mt-12 flex space-x-5 sm:-mt-8 sm:items-center&quot;]</value>
+      <webElementGuid>5649aa2c-2526-4f87-a366-eb3078c9cd02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div</value>
+      <webElementGuid>0a74648f-d038-4425-bd57-9cf499f68a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>566240fd-4ece-49d6-9538-ed6e66f8f0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Isnani naniNormal MemberIsnani naniNormal MemberEdit Profile' or . = 'Isnani naniNormal MemberIsnani naniNormal MemberEdit Profile')]</value>
+      <webElementGuid>615ebda4-0a5d-4a37-81ea-a1e3072fe841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Konfirmasi Top Up</name>
+   <tag></tag>
+   <elementGuidId>434201e3-45d4-4674-832c-6753c399c7e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14b050e2-ae1e-4f29-a7fa-cf485d652625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fce93163-700a-430a-ba3a-0020989681a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-full items-center justify-center gap-2 rounded-lg bg-[#01860f] py-2 text-lg font-bold !text-white disabled:cursor-not-allowed disabled:bg-gray-400</value>
+      <webElementGuid>6bb100b1-f568-4ae4-b7ec-b74457549580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konfirmasi Top Up</value>
+      <webElementGuid>d17cad99-2184-4a30-8625-9c2e2dc91ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-white&quot;]/div[@class=&quot;mx-auto max-w-7xl pb-10 sm:px-6 lg:px-8&quot;]/div[@class=&quot;grid grid-cols-1 items-start gap-4 lg:grid-cols-3 lg:gap-8&quot;]/div[@class=&quot;grid grid-cols-1 gap-4&quot;]/section[1]/div[@class=&quot;shadow-form rounded-[8px] bg-white px-6 py-5&quot;]/div[@class=&quot;hidden w-full p-5 md:block&quot;]/button[@class=&quot;flex w-full items-center justify-center gap-2 rounded-lg bg-[#01860f] py-2 text-lg font-bold !text-white disabled:cursor-not-allowed disabled:bg-gray-400&quot;]</value>
+      <webElementGuid>6c68a4ab-45f1-4cd7-8db0-edada50882b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>a231bfaf-7633-4c3a-bb5b-290193feb78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div/div/div[2]/section/div/div[3]/button</value>
+      <webElementGuid>be8945b7-4a0b-46db-90e8-51f5fab24351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 1.909,-'])[3]/following::button[1]</value>
+      <webElementGuid>f734f6c9-8e96-45cb-8084-dca1043bdb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WALLET'])[1]/following::button[1]</value>
+      <webElementGuid>b1b367f1-6fe9-442d-a0a8-6e2973eb6273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran dengan GoPay akan otomatis membuka aplikasi Gojek kamu.'])[1]/preceding::button[1]</value>
+      <webElementGuid>f36a6d35-2b99-45f3-bf39-08be19e8fe6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat lebih banyak'])[1]/preceding::button[1]</value>
+      <webElementGuid>d3a9dee2-7686-4384-a837-2c670a88792a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Konfirmasi Top Up']/parent::*</value>
+      <webElementGuid>a2e11701-c4cd-4156-9561-66717f8d6122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[3]/button</value>
+      <webElementGuid>053f1d48-22aa-4976-987b-5304852ee4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Konfirmasi Top Up' or . = 'Konfirmasi Top Up')]</value>
+      <webElementGuid>c7779411-d044-4579-bca2-664f66e7fc59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Wrong password. Verify and try again</name>
+   <tag></tag>
+   <elementGuidId>4deb6e5c-4fd7-4d48-bc81-37ff67faa2c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.font-medium.text-gray-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>992c969d-dd26-4ce5-86b2-943a347b94fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-gray-900</value>
+      <webElementGuid>2372a858-5ecb-4821-8b22-81c6002b32bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wrong password. Verify and try again.</value>
+      <webElementGuid>e5318038-1dc4-465d-858a-a2218a0f86f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;h-[100vh]&quot;]/div[@class=&quot;pointer-events-none fixed inset-x-0 top-0 z-50 flex items-end px-4 py-6 sm:items-start sm:p-6&quot;]/div[@class=&quot;flex w-full flex-col items-center space-y-4 sm:items-end&quot;]/div[@class=&quot;pointer-events-auto w-full max-w-sm overflow-hidden rounded-lg bg-white shadow-lg ring-1 ring-black/5 translate-y-0 opacity-100 sm:translate-x-0&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex items-start&quot;]/div[@class=&quot;ml-3 w-0 flex-1 pt-0.5&quot;]/p[@class=&quot;text-sm font-medium text-gray-900&quot;]</value>
+      <webElementGuid>56b48efe-f27a-47bd-adbb-114cf32879a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div[2]/p</value>
+      <webElementGuid>1280f566-2cb0-4cc0-a8fd-419353c3411b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::p[2]</value>
+      <webElementGuid>2e9c095f-319c-4847-97f2-3314fa06b9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASUK AKUN VOCAGAME'])[1]/preceding::p[2]</value>
+      <webElementGuid>1f12018e-ba64-409c-9519-8987a9e8ccc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wrong password. Verify and try again.']/parent::*</value>
+      <webElementGuid>e466c674-5b7d-44e1-8955-729a521b74ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>b2f4c6c8-603a-4d1d-9847-461f38a7d54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Wrong password. Verify and try again.' or . = 'Wrong password. Verify and try again.')]</value>
+      <webElementGuid>0b667bba-799f-468a-838c-042358650687</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

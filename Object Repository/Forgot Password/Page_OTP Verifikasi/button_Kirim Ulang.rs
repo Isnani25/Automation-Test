@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kirim Ulang</name>
+   <tag></tag>
+   <elementGuidId>d6973502-87dd-4f9f-a848-a6b3fe010766</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/div/div/p/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ec1dbf2f-3d94-43bf-80fa-b021b9ede613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary-400</value>
+      <webElementGuid>6dad4641-4895-4986-abe4-9f52f2486632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Ulang</value>
+      <webElementGuid>191371cd-9c18-4945-aeca-62d2e9c4dee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;my-16 bg-white&quot;]/div[@class=&quot;mx-auto max-w-3xl px-4 py-10 sm:px-6 md:py-20 lg:px-8&quot;]/div[@class=&quot;shadow-default mx-auto flex max-w-2xl flex-col rounded-2xl bg-white&quot;]/div[@class=&quot;relative flex-1 px-6 py-16 md:px-20&quot;]/p[@class=&quot;mt-8 text-center text-xs font-semibold text-gray-500 md:text-base&quot;]/button[@class=&quot;text-primary-400&quot;]</value>
+      <webElementGuid>ae31f2dd-ce41-43fe-b5ab-1da08158e38e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/div/div/p/button</value>
+      <webElementGuid>97527f52-a0d7-499e-9ade-cfbebb27aedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kode OTP'])[1]/following::button[1]</value>
+      <webElementGuid>27691901-96d4-4db0-8eb5-c05156266753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[2]</value>
+      <webElementGuid>b549def0-11fa-426c-9a64-57310b9a060d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
+      <webElementGuid>2dbada3f-e153-48e4-be72-72827551addd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU CEPAT'])[1]/preceding::button[1]</value>
+      <webElementGuid>29452fee-dbf3-4701-9e96-9bc9c081128e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim Ulang']/parent::*</value>
+      <webElementGuid>403d41c7-01d7-468d-9cd9-06d0b0cab6cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/button</value>
+      <webElementGuid>b2cbf6ad-bfc5-439e-a429-18bd98f602bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Kirim Ulang' or . = 'Kirim Ulang')]</value>
+      <webElementGuid>32122db0-16d9-46b6-be54-f0cda3674658</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

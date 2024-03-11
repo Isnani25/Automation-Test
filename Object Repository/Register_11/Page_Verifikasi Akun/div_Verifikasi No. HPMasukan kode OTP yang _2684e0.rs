@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Verifikasi No. HPMasukan kode OTP yang _2684e0</name>
+   <tag></tag>
+   <elementGuidId>a59f5265-f0ee-44f0-ad57-fc13522da106</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/form/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc4d6e09-0330-4f49-ad0d-6cf4fe7901c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>d9ae1566-f95e-4e45-892f-2170e09168c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi No. HPMasukan kode OTP yang telah dikirim via Whatsapp</value>
+      <webElementGuid>cb01bfc8-e8b4-4ddd-9731-3738f1e494da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;my-16 bg-white&quot;]/div[@class=&quot;mx-auto max-w-3xl px-4 py-10 sm:px-6 md:py-20 lg:px-8&quot;]/form[@class=&quot;shadow-default mx-auto flex max-w-2xl flex-col rounded-2xl bg-white&quot;]/div[@class=&quot;relative flex-1 px-6 py-16 md:px-20&quot;]/div[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>e2f582c9-3193-4d01-a34c-393a7af37eb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/form/div/div[2]</value>
+      <webElementGuid>c01560a7-e682-48f8-8bde-ffc5c3b7a833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Kode OTP'])[1]/preceding::div[2]</value>
+      <webElementGuid>50a6aa55-e238-4b63-9ba1-7a782863d502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>4366d832-ef16-484d-a88e-b211478b861d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Verifikasi No. HPMasukan kode OTP yang telah dikirim via Whatsapp' or . = 'Verifikasi No. HPMasukan kode OTP yang telah dikirim via Whatsapp')]</value>
+      <webElementGuid>54310c73-141c-4984-8f26-ca0d8b39407e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

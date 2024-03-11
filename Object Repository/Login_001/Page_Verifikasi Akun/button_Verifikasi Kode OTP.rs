@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verifikasi Kode OTP</name>
+   <tag></tag>
+   <elementGuidId>13ee87bf-34a2-4f16-8e68-273d55d3ef5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>20516fc3-222b-4cb8-bffe-50eae72d94d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7b915218-54d7-4125-87db-6f34c74a39de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-14 w-full items-center justify-center rounded-full bg-primary-50 p-4 text-[14px] font-semibold text-primary-400 shadow-sm md:text-base</value>
+      <webElementGuid>3e706d8a-df6f-41ba-95d7-42c1a8e932c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Kode OTP</value>
+      <webElementGuid>9663772f-3840-4af4-bbb2-1e0a27980d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;my-16 bg-white&quot;]/div[@class=&quot;mx-auto max-w-3xl px-4 py-10 sm:px-6 md:py-20 lg:px-8&quot;]/form[@class=&quot;shadow-default mx-auto flex max-w-2xl flex-col rounded-2xl bg-white&quot;]/div[@class=&quot;relative flex-1 px-6 py-16 md:px-20&quot;]/div[4]/button[@class=&quot;flex h-14 w-full items-center justify-center rounded-full bg-primary-50 p-4 text-[14px] font-semibold text-primary-400 shadow-sm md:text-base&quot;]</value>
+      <webElementGuid>458e2ebc-c236-4e5a-afe9-d91738dc5c9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>66a407e1-8e96-463f-bfcd-fa8e51cbac65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/form/div/div[4]/button</value>
+      <webElementGuid>2f90bb83-45c2-4724-9fd8-5edca052d3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi 2 Langkah'])[1]/following::button[1]</value>
+      <webElementGuid>23a4ee3f-a856-4be2-869d-a077d1a496fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
+      <webElementGuid>9b8d5c81-ea34-4bc8-806a-9ec026301e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU CEPAT'])[1]/preceding::button[1]</value>
+      <webElementGuid>232b70f2-13ec-46df-97c3-095a596ff0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verifikasi Kode OTP']/parent::*</value>
+      <webElementGuid>3991d0e3-264c-4621-a3fe-516a80e6efb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>7c9d746f-0bed-4962-af18-7b75fc3a6d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Verifikasi Kode OTP' or . = 'Verifikasi Kode OTP')]</value>
+      <webElementGuid>a66f7193-172f-4b82-aedc-9cd714b9fe4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

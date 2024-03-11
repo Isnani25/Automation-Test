@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Open user menu_h-9 w-9 rounded-full</name>
+   <tag></tag>
+   <elementGuidId>098ae01a-f705-4716-9e02-d713c758298c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.h-9.w-9.rounded-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-menu-button-:r0:']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0363f7a8-7b19-4a60-901e-81355e90c9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-9 w-9 rounded-full</value>
+      <webElementGuid>eb893cd1-7d59-446a-b356-547948733401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ui-avatars.com/api/?name=Isnani nani&amp;background=16C829&amp;color=fff</value>
+      <webElementGuid>6fb5f18b-00f6-4b3f-adfa-995f70982780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Isnani nani</value>
+      <webElementGuid>50f2b871-170b-4719-8b16-2bae0ccf4bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-button-:r0:&quot;)/img[@class=&quot;h-9 w-9 rounded-full&quot;]</value>
+      <webElementGuid>b583a2ea-cd1f-4144-9cc3-5274ad4a29a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-menu-button-:r0:']/img</value>
+      <webElementGuid>71d598d3-f587-4ec1-99d9-d1881ac7d607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Isnani nani']</value>
+      <webElementGuid>484a6c51-fb33-4b33-b69d-a5d13abe6dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>be7bc585-bc67-4b81-9b8c-2700b3d1e8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ui-avatars.com/api/?name=Isnani nani&amp;background=16C829&amp;color=fff' and @alt = 'Isnani nani']</value>
+      <webElementGuid>9a8eebc2-3dcb-4c7d-93a9-2dc1ac7f778a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

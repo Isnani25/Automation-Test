@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Reset Password</name>
+   <tag></tag>
+   <elementGuidId>29552bec-75c3-48d4-8ddd-1a2ea6e49a14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/form/div/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5ed81de0-9abf-40c2-ab1a-3b5e0ae6d57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[28px] font-extrabold text-[#20184E] md:text-[56px]</value>
+      <webElementGuid>6e07a607-bece-49a8-8abc-238a6ac70305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Password</value>
+      <webElementGuid>37da9fe5-364d-4d72-a6a6-72ed8270dc76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;my-16 bg-white&quot;]/div[@class=&quot;mx-auto max-w-3xl px-4 py-10 sm:px-6 md:py-20 lg:px-8&quot;]/form[@class=&quot;shadow-default mx-auto flex max-w-2xl flex-col rounded-2xl bg-white&quot;]/div[@class=&quot;relative flex-1 px-6 py-16 md:px-20&quot;]/div[@class=&quot;text-center&quot;]/h2[@class=&quot;text-[28px] font-extrabold text-[#20184E] md:text-[56px]&quot;]</value>
+      <webElementGuid>71384a69-8774-49c0-bf8e-89cb48abe138</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/form/div/div[2]/h2</value>
+      <webElementGuid>f095d388-4723-43f9-844e-d4382fece6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor WhatsApp'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ba084869-8992-424c-81be-3c70cdd77079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4c6aa51f-a9e7-4037-b3e5-e6a4edf1755e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>75ed2f39-1a13-4afa-89c9-b0883504a315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Reset Password' or . = 'Reset Password')]</value>
+      <webElementGuid>d503b2ee-9e0b-41f6-9876-aa0e475806e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

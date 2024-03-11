@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Detail PesananMohon konfirmasi pesananm_d79f19</name>
+   <tag></tag>
+   <elementGuidId>f4cb5f71-c1d4-4b47-971e-d0b94f3216de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:ri:']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5f83c3a-94bb-4253-8368-1dfab78307e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-full items-center justify-center p-4 text-center sm:p-0</value>
+      <webElementGuid>cedeb2ad-35c1-465e-ada7-e89a742aadb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail PesananMohon konfirmasi pesananmu sudah benarData PlayerUSER ID :1083924397Ringkasan PembelianHarga:Rp 1.922,-Nomor WhatsApp:6282251545335Sistem Pembayaran:QRISDengan melakukan pembelian ini, anda telah menyetujui Syarat &amp; Ketentuan dan Kebijakan Privasi yang berlaku.Beli SekarangCancel</value>
+      <webElementGuid>2cfc8322-1edc-419f-8a39-6e5f86b5044f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:ri:&quot;)/div[@class=&quot;fixed inset-0 z-30 overflow-y-auto&quot;]/div[@class=&quot;flex min-h-full items-center justify-center p-4 text-center sm:p-0&quot;]</value>
+      <webElementGuid>32bb4248-a5f4-48cc-938d-4516237e0e62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:ri:']/div[2]/div</value>
+      <webElementGuid>da78b1fb-8165-414f-972a-6ea79b03e9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOWNLOAD APLIKASI KAMI'])[1]/following::div[15]</value>
+      <webElementGuid>9e89d5ba-0112-41c3-9179-32f38ff85646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::div[16]</value>
+      <webElementGuid>0c058736-79da-4b0e-8eaa-5561ff8bdc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[4]/div/div/div/div[2]/div</value>
+      <webElementGuid>eafb1633-9057-4b1e-9be9-ed3631bd07e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Detail PesananMohon konfirmasi pesananmu sudah benarData PlayerUSER ID :1083924397Ringkasan PembelianHarga:Rp 1.922,-Nomor WhatsApp:6282251545335Sistem Pembayaran:QRISDengan melakukan pembelian ini, anda telah menyetujui Syarat &amp; Ketentuan dan Kebijakan Privasi yang berlaku.Beli SekarangCancel' or . = 'Detail PesananMohon konfirmasi pesananmu sudah benarData PlayerUSER ID :1083924397Ringkasan PembelianHarga:Rp 1.922,-Nomor WhatsApp:6282251545335Sistem Pembayaran:QRISDengan melakukan pembelian ini, anda telah menyetujui Syarat &amp; Ketentuan dan Kebijakan Privasi yang berlaku.Beli SekarangCancel')]</value>
+      <webElementGuid>7a0d886f-9eb1-46b9-95c5-d43dcc1db701</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

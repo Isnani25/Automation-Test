@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The OTP must be at least 6 characters lon_5abd50</name>
+   <tag></tag>
+   <elementGuidId>415dd5c7-8ec6-49b2-8b20-ea8f4f118847</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.font-medium.text-gray-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5711b083-464e-411a-9fbd-b145d2794be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-gray-900</value>
+      <webElementGuid>2c70f950-a1df-494c-ac99-f1d88a1b147f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The OTP must be at least 6 characters long. Please enter a valid OTP and try again.otp should not be empty</value>
+      <webElementGuid>b78a62e2-8067-4911-9783-b0e8a690b7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;pointer-events-none fixed inset-x-0 top-0 z-50 flex items-end px-4 py-6 sm:items-start sm:p-6&quot;]/div[@class=&quot;flex w-full flex-col items-center space-y-4 sm:items-end&quot;]/div[@class=&quot;pointer-events-auto w-full max-w-sm overflow-hidden rounded-lg bg-white shadow-lg ring-1 ring-black/5 translate-y-0 opacity-100 sm:translate-x-0&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex items-start&quot;]/div[@class=&quot;ml-3 w-0 flex-1 pt-0.5&quot;]/p[@class=&quot;text-sm font-medium text-gray-900&quot;]</value>
+      <webElementGuid>90d63ecc-e407-4566-b721-19a980e2927b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>d0c20ab4-3736-4bc3-8b4e-1b0aa6648394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::p[2]</value>
+      <webElementGuid>5e0c8b99-c8b4-44d2-94db-8a6766c72a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/preceding::p[2]</value>
+      <webElementGuid>a07dd9ad-6644-470b-8241-327cb941849f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The OTP must be at least 6 characters long. Please enter a valid OTP and try again.']/parent::*</value>
+      <webElementGuid>7321019b-0565-44f4-a9cd-997c3f19e156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>4864e030-d2a4-48d9-800c-fec621259d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The OTP must be at least 6 characters long. Please enter a valid OTP and try again.otp should not be empty' or . = 'The OTP must be at least 6 characters long. Please enter a valid OTP and try again.otp should not be empty')]</value>
+      <webElementGuid>5b1f371e-5b7f-4808-ae76-9db6112442c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
